@@ -1,2 +1,5 @@
 # Ambiente Vitual
 env/
+
+# Vscode
+.vscode/
