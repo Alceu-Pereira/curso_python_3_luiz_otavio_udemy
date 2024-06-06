@@ -4,16 +4,21 @@
 
 
 class Pessoa:
-    pass
+    def __init__(self, nome, sobrenome):
+        self.nome = nome
+        self.sobrenome = sobrenome
 
-pessoa_1 = Pessoa()
-pessoa_1.nome = 'Alceu'
-pessoa_1.sobrenome = 'Pereira'
+pessoa_1 = Pessoa('Alceu', 'Pereira')
+# pessoa_1.nome = 'Alceu'
+# pessoa_1.sobrenome = 'Pereira'
+
+
+pessoa_2 = Pessoa('Fulano', 'Beltrano')
+# pessoa_2.nome = 'Fulano'
+# pessoa_2.sobrenome = 'Beltrano'
+
 print(pessoa_1.nome)
 print(pessoa_1.sobrenome)
-
-pessoa_2 = Pessoa()
-pessoa_2.nome = 'Fulano'
-pessoa_2.sobrenome = 'Beltrano'
+print()
 print(pessoa_2.nome)
 print(pessoa_2.sobrenome)
