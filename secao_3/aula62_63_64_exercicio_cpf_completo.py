@@ -2,7 +2,7 @@ import random
 
 lista_de_cpfs = []
 
-while len(lista_de_cpfs) < 2:
+while len(lista_de_cpfs) < 10:
     cpf = ''
     for i in range(11):
         cpf += str(random.randint(0, 9))
