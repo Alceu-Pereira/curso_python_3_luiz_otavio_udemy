@@ -1,0 +1,7 @@
+s1 = set()
+s1.add('Alceu')
+s1.add('Pereira')
+s1.add('Freitas')
+s1.update('Freitas')
+s1.discard('Freitas')
+print(s1)
