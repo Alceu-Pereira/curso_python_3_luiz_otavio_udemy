@@ -1,4 +1,2 @@
-s1 = set('Alceu')
-s2 = {'Alceu'}
+s1 = {1, 2, 3, 3, 3, 3}
 print(s1)
-print(s2)
