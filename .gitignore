@@ -6,3 +6,6 @@ env/
 
 # Pycache
 secao_4/__pycache__/
+
+# Pycache 2
+secao_4/aula99_pacote/__pycache__
