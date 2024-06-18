@@ -3,3 +3,6 @@ env/
 
 # Vscode
 .vscode/
+
+# Pycache
+/secao_4/__pycache__/
