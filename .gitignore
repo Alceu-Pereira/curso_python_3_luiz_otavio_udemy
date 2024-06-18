@@ -5,4 +5,4 @@ env/
 .vscode/
 
 # Pycache
-/secao_4/__pycache__/
+secao_4/__pycache__/
