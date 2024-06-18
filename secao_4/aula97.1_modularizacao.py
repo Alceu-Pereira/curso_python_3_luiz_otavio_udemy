@@ -2,6 +2,8 @@
 # def soma(x, y):
 #     return x + y
 
+# -----------------------------------
+
 # import aula97_o2
 # from aula97_o2 import variavel_modulo, soma
 
