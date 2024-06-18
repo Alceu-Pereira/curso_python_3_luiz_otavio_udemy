@@ -12,9 +12,10 @@ class Connection:
 
     @classmethod
     def default_user(cls, user='admin', password='admin'):
-       cls.user = user
-       cls.password = password
-       return cls
+       instancia = cls()
+       instancia.user = user
+       instancia.password = password
+       return instancia
 
     @staticmethod
     def log(msg):
