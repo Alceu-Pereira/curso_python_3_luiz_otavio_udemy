@@ -1,0 +1,6 @@
+Success: Galaxy S está ligado!(Smartphone)
+Success: iPhone está desligado!(Smartphone)
+Success: Galaxy S está ligado!(Smartphone)
+Success: iPhone está desligado!(Smartphone)
+Success: Galaxy S está ligado!(Smartphone)
+Success: iPhone está desligado!(Smartphone)
